@@ -15,7 +15,7 @@ description: 'Write an awesome description for your new site here. You can edit 
 
 '
 baseurl: "/jammy"
-url: ""
+url: ''
 twitter_username: st0kke
 github_username: st0kke
 sass:
